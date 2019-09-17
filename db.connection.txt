@@ -1,0 +1,10 @@
+name: density
+
+username: iku9vt0ic0f86x39
+pw: ye52h066gwdfu6sw
+host: g8r9w9tmspbwmsyo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+db: zmai9dl3mofu5lop
+
+connection_string: mysql://iku9vt0ic0f86x39:ye52h066gwdfu6sw@g8r9w9tmspbwmsyo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/zmai9dl3mofu5lop
+
+default_table: doorway_hourly
